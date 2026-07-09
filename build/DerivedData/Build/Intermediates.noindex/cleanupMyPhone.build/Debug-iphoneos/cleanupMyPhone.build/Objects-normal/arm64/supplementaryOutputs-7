@@ -1,0 +1,44 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Extensions/UIColor+Extension.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIColor+Extension.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIColor+Extension.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIColor+Extension.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIColor+Extension.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIColor+Extension.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/SceneDelegate.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/SceneDelegate.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/HomeViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/HomeViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/HomeViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/HomeViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/HomeViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Introduction/IntroductionViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/IntroductionViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/IntroductionViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/IntroductionViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/IntroductionViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/IntroductionViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Introduction/Step1ViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step1ViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step1ViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step1ViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step1ViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step1ViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Introduction/Step3ViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step3ViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step3ViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step3ViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step3ViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Step3ViewController.swiftdeps"
+  }
+}

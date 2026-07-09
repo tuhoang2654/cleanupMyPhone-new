@@ -1,0 +1,51 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Extensions/Colors.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Colors.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Colors.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Colors.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Colors.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Colors.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Extensions/UIImage+Saturation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIImage+Saturation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIImage+Saturation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIImage+Saturation.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIImage+Saturation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIImage+Saturation.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Extensions/UIStackView+Extension.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIStackView+Extension.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIStackView+Extension.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIStackView+Extension.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIStackView+Extension.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/UIStackView+Extension.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Helper/LoadingManager.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/LoadingManager.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/LoadingManager.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/LoadingManager.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/LoadingManager.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/LoadingManager.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Ads/BaseNativeAdvanceAdsViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BaseNativeAdvanceAdsViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BaseNativeAdvanceAdsViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BaseNativeAdvanceAdsViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BaseNativeAdvanceAdsViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BaseNativeAdvanceAdsViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/FirstViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/FirstViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/FirstViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/FirstViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/FirstViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/FirstViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Settings/RowView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RowView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RowView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RowView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RowView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RowView.swiftdeps"
+  }
+}

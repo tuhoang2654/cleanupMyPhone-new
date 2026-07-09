@@ -1,0 +1,17 @@
+xcassets:
+  inputs:
+    - TemplateiOS/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: TemplateiOS/Resources/Generated/Assets.swift
+
+strings:
+  inputs:
+    # 1
+    - TemplateiOS/Resources/Localizations/en.lproj
+  outputs:
+    - templatePath: custom-swift4.stencil
+      # 2
+      params:
+        publicAccess: true
+      output: TemplateiOS/Resources/Generated/Localized.swift

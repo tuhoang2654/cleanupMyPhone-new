@@ -1,0 +1,156 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/CoreAnimation/Animations/OpacityAnimation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/OpacityAnimation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/OpacityAnimation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/OpacityAnimation.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/OpacityAnimation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/OpacityAnimation.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/CoreAnimation/Layers/MaskCompositionLayer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskCompositionLayer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskCompositionLayer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskCompositionLayer.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskCompositionLayer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskCompositionLayer.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/LayerContainers/CompLayers/MaskContainerLayer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskContainerLayer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskContainerLayer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskContainerLayer.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskContainerLayer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MaskContainerLayer.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/LayerContainers/CompLayers/NullCompositionLayer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NullCompositionLayer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NullCompositionLayer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NullCompositionLayer.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NullCompositionLayer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NullCompositionLayer.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/LayerContainers/MainThreadAnimationLayer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MainThreadAnimationLayer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MainThreadAnimationLayer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MainThreadAnimationLayer.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MainThreadAnimationLayer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MainThreadAnimationLayer.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/NodeRenderSystem/NodeProperties/NodeProperty.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodeProperty.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodeProperty.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodeProperty.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodeProperty.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodeProperty.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/NodeRenderSystem/NodeProperties/Protocols/NodePropertyMap.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodePropertyMap.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodePropertyMap.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodePropertyMap.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodePropertyMap.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/NodePropertyMap.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/MainThread/NodeRenderSystem/Nodes/OutputNodes/Renderables/LegacyGradientFillRenderer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LegacyGradientFillRenderer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LegacyGradientFillRenderer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LegacyGradientFillRenderer.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LegacyGradientFillRenderer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LegacyGradientFillRenderer.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/Model/Objects/Marker.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Marker.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Marker.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Marker.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Marker.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Marker.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/Model/Objects/Mask.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Mask.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Mask.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Mask.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Mask.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Mask.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/Model/ShapeItems/Merge.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Merge.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Merge.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Merge.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Merge.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/Merge.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Private/Utility/Extensions/MathKit.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MathKit.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MathKit.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MathKit.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MathKit.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/MathKit.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Animation/LottieAnimation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimation.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimation.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Animation/LottieAnimationHelpers.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationHelpers.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationHelpers.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationHelpers.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationHelpers.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationHelpers.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Animation/LottieAnimationView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationView.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Animation/LottieAnimationViewInitializers.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewInitializers.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewInitializers.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewInitializers.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewInitializers.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewInitializers.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/AnimationCache/LRUAnimationCache.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LRUAnimationCache.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LRUAnimationCache.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LRUAnimationCache.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LRUAnimationCache.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LRUAnimationCache.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/AnimationCache/LottieAnimationCache.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationCache.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationCache.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationCache.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationCache.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationCache.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Logging/LottieLogger.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieLogger.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieLogger.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieLogger.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieLogger.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieLogger.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/LottieConfiguration.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieConfiguration.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieConfiguration.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieConfiguration.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieConfiguration.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/Primitives/LottieColor.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieColor.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieColor.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieColor.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieColor.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieColor.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/lottie-ios/Sources/Public/iOS/LottieAnimationViewBase.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewBase.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewBase.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewBase.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewBase.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/lottie-ios.build/Objects-normal/arm64/LottieAnimationViewBase.swiftdeps"
+  }
+}

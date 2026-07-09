@@ -1,0 +1,62 @@
+/*
+  Localizable.strings
+  TemplateiOS
+
+  Created by Que Nguyen on 01/09/2023.
+  
+*/
+
+"TemplateiOS.splash.title" = "Don’t touch my phone";
+"TemplateiOS.splash.loading" = "This action can contain ads";
+
+"TemplateiOS.language.en" = "English";
+"TemplateiOS.language.china" = "China";
+"TemplateiOS.language.hindi" = "Hindi";
+"TemplateiOS.language.french" = "French";
+"TemplateiOS.language.indonesia" = "Indonesia";
+"TemplateiOS.language.germany" = "Gemany";
+"TemplateiOS.language.title" = "Language";
+"TemplateiOS.language.des" = "Please choose your native language. You can change language from settings later.";
+
+"TemplateiOS.intro.title1" = "Don’t touch my phone";
+"TemplateiOS.intro.des1" = "Easy detect lost phone by sound and flash mode";
+"TemplateiOS.intro.title2" = "Custom sound";
+"TemplateiOS.intro.des2" = "An amazing collection of sounds that you can listen to";
+"TemplateiOS.intro.title3" = "Set PIN code";
+"TemplateiOS.intro.des3" = "Set a PIN code to better protect your app";
+"TemplateiOS.intro.button.next" = "Next";
+"TemplateiOS.intro.button.prev" = "Prev";
+"TemplateiOS.intro.button.start" = "Start";
+
+"TemplateiOS.home.title" = "TemplateiOS";
+
+"TemplateiOS.alert.action.cancel" = "Cancel";
+"TemplateiOS.alert.action.ok" = "OK";
+
+"TemplateiOS.alert.ATT.title" = "“Find my phone by clap & flash” will like to used track your activity across other companies' apps and websites?";
+"TemplateiOS.alert.ATT.message" = "To turn on permission to provide service and personalized marketing. Tap Settings and turn on tracking permission.";
+"TemplateiOS.alert.settings" = "Settings";
+
+"TemplateiOS.alert.update.title" = "Update";
+"TemplateiOS.alert.update.message" = "A new version is available. Please update for a better experience.";
+
+"TemplateiOS.settings.title" = "Settings";
+"TemplateiOS.settings.hapatic" = "Hapatic Feedback";
+"TemplateiOS.settings.sound" = "Click Sound";
+"TemplateiOS.settings.language" = "Language";
+"TemplateiOS.settings.supportAndFeedback" = "Support & Feedback";
+"TemplateiOS.settings.rate" = "Rating";
+"TemplateiOS.settings.shareApp" = "Share App";
+"TemplateiOS.settings.feedback" = "Give us your feedback";
+"TemplateiOS.settings.howToUse" = "How to use";
+"TemplateiOS.settings.privacy" = "Privacy";
+"TemplateiOS.settings.term" = "Term of use";
+
+"TemplateiOS.rate.normal.title" = "Do you like our app?";
+"TemplateiOS.rate.normal.des" = "Give us a quick rating so we know if you like it.";
+"TemplateiOS.rate.title" = "Thanks for the Rating";
+"TemplateiOS.rate.oneTwoThree.des" = "We are working hard for a better user experience.";
+"TemplateiOS.rate.fourFive.des" = "That great to hear you are satisfied with the product.";
+"TemplateiOS.rate.thankYou" = "Thanks for your rating!";
+"TemplateiOS.rate.button.rate" = "Rate";
+"TemplateiOS.rate.button.notNow" = "Not now";

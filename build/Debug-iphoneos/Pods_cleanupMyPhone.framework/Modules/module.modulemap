@@ -1,0 +1,6 @@
+framework module Pods_cleanupMyPhone {
+  umbrella header "Pods-cleanupMyPhone-umbrella.h"
+
+  export *
+  module * { export * }
+}

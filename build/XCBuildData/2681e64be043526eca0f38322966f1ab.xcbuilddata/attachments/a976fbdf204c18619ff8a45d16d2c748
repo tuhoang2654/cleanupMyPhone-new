@@ -1,0 +1,5 @@
+
+module PanModal.Swift {
+  header "PanModal-Swift.h"
+  requires objc
+}

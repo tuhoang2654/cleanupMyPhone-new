@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/CHIPageControl/CHIPageControl.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/CHIPageControl/CHIPageControl.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "CHIPageControl-Swift.h",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/unextended-interface-header.h",
+    }]
+  }]
+}

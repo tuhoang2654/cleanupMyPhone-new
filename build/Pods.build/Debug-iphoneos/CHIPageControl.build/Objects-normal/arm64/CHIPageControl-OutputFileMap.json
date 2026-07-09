@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControl-primary.dia",
+    "emit-module-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControl-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControl-primary-emit-module.dia",
+    "pch" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControl-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControl-primary.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/CHIPageControl/CHIPageControl/CHIPageControlJalapeno.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControlJalapeno~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/CHIPageControl/CHIPageControl/Core/CHIBasePageControl.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIBasePageControl~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/CHIPageControl/CHIPageControl/Core/CHILayer.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHILayer~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/CHIPageControl/CHIPageControl/Core/CHIPageControllable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/CHIPageControl.build/Objects-normal/arm64/CHIPageControllable~partial.swiftmodule"
+  }
+}

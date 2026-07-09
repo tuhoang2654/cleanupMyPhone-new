@@ -1,0 +1,4 @@
+
+module RxCocoa.__Swift {
+  exclude header "RxCocoa-Swift.h"
+}

@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptional-primary.dia",
+    "emit-module-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptional-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptional-primary-emit-module.dia",
+    "pch" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptional-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptional-primary.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/Observable+Occupiable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Occupiable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/Observable+Optional.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Observable+Optional~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/Occupiable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/Occupiable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/OptionalType.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/OptionalType~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/RxOptionalError.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/RxOptionalError~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/SharedSequence+Occupiable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Occupiable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/RxOptional/Sources/RxOptional/SharedSequence+Optional.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/Objects-normal/arm64/SharedSequence+Optional~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,5 @@
+
+module RxRelay.Swift {
+  header "RxRelay-Swift.h"
+  requires objc
+}

@@ -1,0 +1,349 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages-primary.dia",
+    "emit-module-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages-primary-emit-module.dia",
+    "pch" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages-primary.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/AccessibleMessage.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/AccessibleMessage~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Animator.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Animator~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/BackgroundViewable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BackgroundViewable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/BaseView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/BaseView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/CALayer+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CALayer+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/CornerRoundingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/CornerRoundingView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Error.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Error~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Identifiable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Identifiable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/KeyboardTrackingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MarginAdjustable+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MarginAdjustable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MaskingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MessageHostingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MessageView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MessageViewConvertible.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageViewConvertible~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/NSBundle+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSBundle+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/NSLayoutConstraint+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/NSLayoutConstraint+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PassthroughView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PassthroughWindow.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PhysicsAnimation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PhysicsPanHandler.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Presenter.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessageModifier.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessages.Config+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessages.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessagesSegue.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Theme.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/TopBottomAnimation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/UIEdgeInsets+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/UIViewController+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/UIWindow+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Weak.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Weak~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/WindowScene.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowScene~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/WindowViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/WindowViewController~partial.swiftmodule"
+  }
+}

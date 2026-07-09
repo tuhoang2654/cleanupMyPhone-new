@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/RxSwift/RxSwift.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/RxSwift/RxSwift.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "RxSwift-Swift.h",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxSwift.build/unextended-interface-header.h",
+    }]
+  }]
+}

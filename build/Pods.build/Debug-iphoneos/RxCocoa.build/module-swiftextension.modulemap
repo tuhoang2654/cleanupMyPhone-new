@@ -1,0 +1,5 @@
+
+module RxCocoa.Swift {
+  header "RxCocoa-Swift.h"
+  requires objc
+}

@@ -1,0 +1,30 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MarginAdjustable+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MaskingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MaskingView.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MessageHostingView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageHostingView.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/MessageView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/MessageView.swiftdeps"
+  }
+}

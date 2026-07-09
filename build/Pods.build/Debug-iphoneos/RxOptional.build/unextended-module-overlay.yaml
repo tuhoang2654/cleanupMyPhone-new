@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/RxOptional/RxOptional.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Debug-iphoneos/RxOptional/RxOptional.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "RxOptional-Swift.h",
+      "external-contents": "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/RxOptional.build/unextended-interface-header.h",
+    }]
+  }]
+}

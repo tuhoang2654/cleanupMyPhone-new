@@ -1,0 +1,51 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/AppDelegate.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/AppDelegate.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Configurations/Configurations.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Configurations.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Configurations.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Configurations.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Configurations.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Configurations.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Resources/Generated/Localized.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Localized.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Localized.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Localized.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Localized.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/Localized.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/Services/ROI360Service.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/ROI360Service.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/ROI360Service.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/ROI360Service.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/ROI360Service.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/ROI360Service.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Ads/BannerCollapseAdsViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BannerCollapseAdsViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BannerCollapseAdsViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BannerCollapseAdsViewController.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BannerCollapseAdsViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/BannerCollapseAdsViewController.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/Ads/PlaceHolderAdsView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/PlaceHolderAdsView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/PlaceHolderAdsView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/PlaceHolderAdsView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/PlaceHolderAdsView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/PlaceHolderAdsView.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/cleanupMyPhone/ViewControllers/RateView/RateItemView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RateItemView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RateItemView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RateItemView.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RateItemView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/DerivedData/Build/Intermediates.noindex/cleanupMyPhone.build/Debug-iphoneos/cleanupMyPhone.build/Objects-normal/arm64/RateItemView.swiftdeps"
+  }
+}

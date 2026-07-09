@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-cleanupMyPhone/Pods-cleanupMyPhone-resources.sh
+${PODS_ROOT}/AppLovinSDK/applovin-ios-sdk-11.11.4/AppLovinSDKResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Kingfisher/Kingfisher.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SwiftMessages/SwiftMessages.bundle

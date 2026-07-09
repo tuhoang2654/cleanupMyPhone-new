@@ -1,0 +1,30 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PassthroughWindow.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PassthroughWindow.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PhysicsAnimation.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsAnimation.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/PhysicsPanHandler.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/PhysicsPanHandler.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/Presenter.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/Presenter.swiftdeps"
+  }
+}

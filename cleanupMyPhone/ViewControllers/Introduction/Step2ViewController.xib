@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="LeagueSpartan-Regular.ttf">
+            <string>LeagueSpartan-Regular</string>
+        </array>
+        <array key="LeagueSpartan-SemiBold.ttf">
+            <string>LeagueSpartan-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Step2ViewController" customModule="TemplateiOS" customModuleProvider="target">
+            <connections>
+                <outlet property="desLabel" destination="p86-ci-fnq" id="HCr-Lk-o9J"/>
+                <outlet property="gradienTopView" destination="XS2-Lq-jdf" id="TXM-zM-F8K"/>
+                <outlet property="titleLabel" destination="zrx-w2-lvs" id="Ii8-Di-zix"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" tag="1" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="306" height="584"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view tag="1" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PLq-wL-NJe">
+                    <rect key="frame" x="0.0" y="0.0" width="306" height="584"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XS2-Lq-jdf" customClass="GradientView" customModule="TemplateiOS" customModuleProvider="target">
+                            <rect key="frame" x="0.0" y="0.0" width="306" height="427.33333333333331"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="color" keyPath="startColor">
+                                    <color key="value" red="0.77647058823529413" green="0.33725490196078434" blue="0.98431372549019602" alpha="1" colorSpace="calibratedRGB"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="color" keyPath="endColor">
+                                    <color key="value" red="0.69019607843137254" green="0.47843137254901957" blue="0.90588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="d3c-C6-PQX">
+                            <rect key="frame" x="0.0" y="59" width="306" height="368.33333333333331"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </view>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_intro2" translatesAutoresizingMaskIntoConstraints="NO" id="W0i-rh-eCy">
+                            <rect key="frame" x="33" y="123.33333333333331" width="240" height="240"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="240" id="2bQ-07-TFL"/>
+                                <constraint firstAttribute="height" constant="240" id="fX8-ZR-pAf"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p86-ci-fnq">
+                            <rect key="frame" x="16" y="489.66666666666669" width="274" height="44.333333333333314"/>
+                            <string key="text">See live updates and history of a loved one's 
+whereabouts</string>
+                            <fontDescription key="fontDescription" name="LeagueSpartan-Regular" family="League Spartan" pointSize="16"/>
+                            <color key="textColor" red="0.074509803920000006" green="0.08235294118" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" verticalCompressionResistancePriority="1000" text="Location history" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zrx-w2-lvs">
+                            <rect key="frame" x="16" y="451.33333333333331" width="274" height="22.333333333333314"/>
+                            <fontDescription key="fontDescription" name="LeagueSpartan-SemiBold" family="League Spartan" pointSize="24"/>
+                            <color key="textColor" red="0.074509803920000006" green="0.08235294118" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <viewLayoutGuide key="safeArea" id="1ej-r1-xxd"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="zrx-w2-lvs" firstAttribute="top" secondItem="XS2-Lq-jdf" secondAttribute="bottom" constant="24" id="08F-56-Gg5"/>
+                        <constraint firstItem="W0i-rh-eCy" firstAttribute="centerX" secondItem="d3c-C6-PQX" secondAttribute="centerX" id="3zr-Yo-kYc"/>
+                        <constraint firstItem="1ej-r1-xxd" firstAttribute="trailing" secondItem="p86-ci-fnq" secondAttribute="trailing" constant="16" id="4x0-cN-haV"/>
+                        <constraint firstAttribute="trailing" secondItem="XS2-Lq-jdf" secondAttribute="trailing" id="70e-mK-2IA"/>
+                        <constraint firstItem="p86-ci-fnq" firstAttribute="leading" secondItem="1ej-r1-xxd" secondAttribute="leading" constant="16" id="Kzf-dY-iOC"/>
+                        <constraint firstItem="XS2-Lq-jdf" firstAttribute="leading" secondItem="PLq-wL-NJe" secondAttribute="leading" id="M96-mT-Fgj"/>
+                        <constraint firstItem="zrx-w2-lvs" firstAttribute="centerX" secondItem="PLq-wL-NJe" secondAttribute="centerX" id="WKb-it-LCq"/>
+                        <constraint firstItem="XS2-Lq-jdf" firstAttribute="top" secondItem="PLq-wL-NJe" secondAttribute="top" id="XXz-V9-oJ5"/>
+                        <constraint firstItem="d3c-C6-PQX" firstAttribute="bottom" secondItem="XS2-Lq-jdf" secondAttribute="bottom" id="bcr-0t-Rtj"/>
+                        <constraint firstItem="d3c-C6-PQX" firstAttribute="leading" secondItem="XS2-Lq-jdf" secondAttribute="leading" id="cTL-0Y-FoX"/>
+                        <constraint firstItem="1ej-r1-xxd" firstAttribute="bottom" secondItem="p86-ci-fnq" secondAttribute="bottom" constant="16" id="mTW-iZ-e6h"/>
+                        <constraint firstItem="p86-ci-fnq" firstAttribute="top" secondItem="zrx-w2-lvs" secondAttribute="bottom" constant="16" id="qQ1-y2-GSq"/>
+                        <constraint firstItem="d3c-C6-PQX" firstAttribute="top" secondItem="1ej-r1-xxd" secondAttribute="top" id="r5I-tF-8b7"/>
+                        <constraint firstItem="W0i-rh-eCy" firstAttribute="centerY" secondItem="d3c-C6-PQX" secondAttribute="centerY" id="ui6-wM-inU"/>
+                        <constraint firstItem="d3c-C6-PQX" firstAttribute="trailing" secondItem="XS2-Lq-jdf" secondAttribute="trailing" id="wH2-Ae-mfa"/>
+                        <constraint firstItem="1ej-r1-xxd" firstAttribute="trailing" secondItem="zrx-w2-lvs" secondAttribute="trailing" constant="16" id="zwY-g6-Y08"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="PLq-wL-NJe" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Pfv-Ys-pvW"/>
+                <constraint firstItem="PLq-wL-NJe" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="RiV-lx-9d2"/>
+                <constraint firstAttribute="bottom" secondItem="PLq-wL-NJe" secondAttribute="bottom" id="f3P-zp-jyG"/>
+                <constraint firstAttribute="trailing" secondItem="PLq-wL-NJe" secondAttribute="trailing" id="xgY-xa-Dkr"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="172.51908396946564" y="-283.0985915492958"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_intro2" width="280" height="280"/>
+    </resources>
+</document>

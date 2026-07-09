@@ -1,0 +1,30 @@
+{
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessageModifier.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessageModifier.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessages.Config+Extensions.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.Config+Extensions.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessages.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessages.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/SwiftMessages/SwiftMessages/SwiftMessagesSegue.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.dia",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/SwiftMessages.build/Objects-normal/arm64/SwiftMessagesSegue.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+
+module RxSwift.__Swift {
+  exclude header "RxSwift-Swift.h"
+}

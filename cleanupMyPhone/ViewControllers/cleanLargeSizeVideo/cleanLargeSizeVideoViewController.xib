@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="cleanLargeSizeVideoViewController" customModule="cleanupMyPhone" customModuleProvider="target">
+            <connections>
+                <outlet property="deleteButton" destination="del-btn-LGV" id="out-del-LGV"/>
+                <outlet property="emptyStateLabel" destination="emp-lbl-LGV" id="out-emp-LGV"/>
+                <outlet property="selectAllButton" destination="sel-btn-LGV" id="out-sel-LGV"/>
+                <outlet property="sizeFilterControl" destination="seg-flt-LGV" id="out-seg-LGV"/>
+                <outlet property="summaryLabel" destination="sum-lbl-LGV" id="out-sum-LGV"/>
+                <outlet property="videoCollectionView" destination="col-vw-LGV" id="out-col-LGV"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="flt-bar-LGV">
+                    <rect key="frame" x="0.0" y="59" width="393" height="108"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hiển thị video lớn hơn:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="flt-tit-LGV">
+                            <rect key="frame" x="16" y="12" width="361" height="20"/>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                            <color key="textColor" systemColor="labelColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="seg-flt-LGV">
+                            <rect key="frame" x="16" y="40" width="361" height="32"/>
+                            <segments>
+                                <segment title="100 MB"/>
+                                <segment title="500 MB"/>
+                                <segment title="1 GB"/>
+                            </segments>
+                            <connections>
+                                <action selector="sizeFilterChanged:" destination="-1" eventType="valueChanged" id="act-seg-LGV"/>
+                            </connections>
+                        </segmentedControl>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Đang quét video trong thư viện..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sum-lbl-LGV">
+                            <rect key="frame" x="16" y="80" width="361" height="16"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <color key="textColor" systemColor="secondaryLabelColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="flt-tit-LGV" firstAttribute="top" secondItem="flt-bar-LGV" secondAttribute="top" constant="12" id="flt-tit-top-LGV"/>
+                        <constraint firstItem="flt-tit-LGV" firstAttribute="leading" secondItem="flt-bar-LGV" secondAttribute="leading" constant="16" id="flt-tit-lead-LGV"/>
+                        <constraint firstAttribute="trailing" secondItem="flt-tit-LGV" secondAttribute="trailing" constant="16" id="flt-tit-trail-LGV"/>
+                        <constraint firstItem="seg-flt-LGV" firstAttribute="top" secondItem="flt-tit-LGV" secondAttribute="bottom" constant="8" id="seg-top-LGV"/>
+                        <constraint firstItem="seg-flt-LGV" firstAttribute="leading" secondItem="flt-bar-LGV" secondAttribute="leading" constant="16" id="seg-lead-LGV"/>
+                        <constraint firstAttribute="trailing" secondItem="seg-flt-LGV" secondAttribute="trailing" constant="16" id="seg-trail-LGV"/>
+                        <constraint firstItem="sum-lbl-LGV" firstAttribute="top" secondItem="seg-flt-LGV" secondAttribute="bottom" constant="8" id="sum-top-LGV"/>
+                        <constraint firstItem="sum-lbl-LGV" firstAttribute="leading" secondItem="flt-bar-LGV" secondAttribute="leading" constant="16" id="sum-lead-LGV"/>
+                        <constraint firstAttribute="trailing" secondItem="sum-lbl-LGV" secondAttribute="trailing" constant="16" id="sum-trail-LGV"/>
+                        <constraint firstAttribute="bottom" secondItem="sum-lbl-LGV" secondAttribute="bottom" constant="12" id="sum-bot-LGV"/>
+                    </constraints>
+                </view>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="col-vw-LGV">
+                    <rect key="frame" x="12" y="179" width="369" height="571"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="4" minimumInteritemSpacing="4" id="col-lay-LGV">
+                        <size key="itemSize" width="120" height="158"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="4" minY="8" maxX="4" maxY="24"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="col-ds-LGV"/>
+                        <outlet property="delegate" destination="-1" id="col-dl-LGV"/>
+                    </connections>
+                </collectionView>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Không có video dung lượng lớn trong mức lọc này." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="emp-lbl-LGV">
+                    <rect key="frame" x="32" y="406" width="329" height="40"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" systemColor="secondaryLabelColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="btm-bar-LGV">
+                    <rect key="frame" x="0.0" y="762" width="393" height="56"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sep-lin-LGV">
+                            <rect key="frame" x="0.0" y="0.0" width="393" height="0.5"/>
+                            <color key="backgroundColor" systemColor="separatorColor"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="0.5" id="sep-h-LGV"/>
+                            </constraints>
+                        </view>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="btn-stk-LGV">
+                            <rect key="frame" x="16" y="8" width="361" height="40"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sel-btn-LGV">
+                                    <rect key="frame" x="0.0" y="0.0" width="174.5" height="40"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="gray" title="Chọn tất cả"/>
+                                    <connections>
+                                        <action selector="selectAllButtonTapped:" destination="-1" eventType="touchUpInside" id="act-sel-LGV"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="del-btn-LGV">
+                                    <rect key="frame" x="186.5" y="0.0" width="174.5" height="40"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="filled" title="Xóa">
+                                        <color key="baseBackgroundColor" systemColor="systemRedColor"/>
+                                    </buttonConfiguration>
+                                    <connections>
+                                        <action selector="deleteButtonTapped:" destination="-1" eventType="touchUpInside" id="act-del-LGV"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="sep-lin-LGV" firstAttribute="top" secondItem="btm-bar-LGV" secondAttribute="top" id="sep-top-LGV"/>
+                        <constraint firstItem="sep-lin-LGV" firstAttribute="leading" secondItem="btm-bar-LGV" secondAttribute="leading" id="sep-lead-LGV"/>
+                        <constraint firstAttribute="trailing" secondItem="sep-lin-LGV" secondAttribute="trailing" id="sep-trail-LGV"/>
+                        <constraint firstItem="btn-stk-LGV" firstAttribute="top" secondItem="sep-lin-LGV" secondAttribute="bottom" constant="8" id="stk-top-LGV"/>
+                        <constraint firstItem="btn-stk-LGV" firstAttribute="leading" secondItem="btm-bar-LGV" secondAttribute="leading" constant="16" id="stk-lead-LGV"/>
+                        <constraint firstAttribute="trailing" secondItem="btn-stk-LGV" secondAttribute="trailing" constant="16" id="stk-trail-LGV"/>
+                        <constraint firstAttribute="bottom" secondItem="btn-stk-LGV" secondAttribute="bottom" constant="8" id="stk-bot-LGV"/>
+                        <constraint firstAttribute="height" constant="56" id="bar-h-LGV"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="mFU-vj-gs8"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="flt-bar-LGV" firstAttribute="top" secondItem="mFU-vj-gs8" secondAttribute="top" id="flt-top-LGV"/>
+                <constraint firstItem="flt-bar-LGV" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="flt-lead-LGV"/>
+                <constraint firstAttribute="trailing" secondItem="flt-bar-LGV" secondAttribute="trailing" id="flt-trail-LGV"/>
+                <constraint firstItem="col-vw-LGV" firstAttribute="top" secondItem="flt-bar-LGV" secondAttribute="bottom" constant="12" id="col-top-LGV"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="trailing" secondItem="col-vw-LGV" secondAttribute="trailing" constant="12" id="col-trail-LGV"/>
+                <constraint firstItem="col-vw-LGV" firstAttribute="leading" secondItem="mFU-vj-gs8" secondAttribute="leading" constant="12" id="col-lead-LGV"/>
+                <constraint firstItem="btm-bar-LGV" firstAttribute="top" secondItem="col-vw-LGV" secondAttribute="bottom" id="col-bot-LGV"/>
+                <constraint firstItem="btm-bar-LGV" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="bar-lead-LGV"/>
+                <constraint firstAttribute="trailing" secondItem="btm-bar-LGV" secondAttribute="trailing" id="bar-trail-LGV"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="bottom" secondItem="btm-bar-LGV" secondAttribute="bottom" id="bar-safe-bot-LGV"/>
+                <constraint firstItem="emp-lbl-LGV" firstAttribute="centerY" secondItem="col-vw-LGV" secondAttribute="centerY" id="emp-cy-LGV"/>
+                <constraint firstItem="emp-lbl-LGV" firstAttribute="leading" secondItem="mFU-vj-gs8" secondAttribute="leading" constant="32" id="emp-lead-LGV"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="trailing" secondItem="emp-lbl-LGV" secondAttribute="trailing" constant="32" id="emp-trail-LGV"/>
+            </constraints>
+            <point key="canvasLocation" x="88" y="79"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="secondaryLabelColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="secondarySystemBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="separatorColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

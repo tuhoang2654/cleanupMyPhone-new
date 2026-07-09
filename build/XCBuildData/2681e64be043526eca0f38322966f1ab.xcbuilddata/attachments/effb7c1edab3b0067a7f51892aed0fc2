@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModal-primary.dia",
+    "emit-module-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModal-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModal-primary-emit-module.dia",
+    "pch" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModal-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModal-primary.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Animator/PanModalAnimator.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalAnimator~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Animator/PanModalPresentationAnimator.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationAnimator~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Controller/PanModalPresentationController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationController~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Delegate/PanModalPresentationDelegate.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentationDelegate~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presentable/PanModalHeight.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalHeight~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presentable/PanModalPresentable+Defaults.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+Defaults~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presentable/PanModalPresentable+LayoutHelpers.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+LayoutHelpers~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presentable/PanModalPresentable+UIViewController.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable+UIViewController~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presentable/PanModalPresentable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresentable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presenter/PanModalPresenter.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanModalPresenter~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/Presenter/UIViewController+PanModalPresenter.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/UIViewController+PanModalPresenter~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/View/DimmedView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/DimmedView~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/PanModal/PanModal/View/PanContainerView.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/PanModal.build/Objects-normal/arm64/PanContainerView~partial.swiftmodule"
+  }
+}

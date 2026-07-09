@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="cleanOldScreenshotViewController" customModule="cleanupMyPhone" customModuleProvider="target">
+            <connections>
+                <outlet property="ageFilterControl" destination="seg-flt-0SS" id="out-seg-001"/>
+                <outlet property="deleteButton" destination="del-btn-0SS" id="out-del-001"/>
+                <outlet property="emptyStateLabel" destination="emp-lbl-0SS" id="out-emp-001"/>
+                <outlet property="screenshotCollectionView" destination="col-vw-0SS" id="out-col-001"/>
+                <outlet property="selectAllButton" destination="sel-btn-0SS" id="out-sel-001"/>
+                <outlet property="summaryLabel" destination="sum-lbl-0SS" id="out-sum-001"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="flt-bar-0SS">
+                    <rect key="frame" x="0.0" y="59" width="393" height="108"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hiển thị screenshot cũ hơn:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="flt-tit-0SS">
+                            <rect key="frame" x="16" y="12" width="361" height="20"/>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                            <color key="textColor" systemColor="labelColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="seg-flt-0SS">
+                            <rect key="frame" x="16" y="40" width="361" height="32"/>
+                            <segments>
+                                <segment title="30 ngày"/>
+                                <segment title="3 tháng"/>
+                                <segment title="6 tháng"/>
+                                <segment title="1 năm"/>
+                            </segments>
+                            <connections>
+                                <action selector="ageFilterChanged:" destination="-1" eventType="valueChanged" id="act-seg-001"/>
+                            </connections>
+                        </segmentedControl>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tìm thấy 0 screenshot cũ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sum-lbl-0SS">
+                            <rect key="frame" x="16" y="80" width="361" height="16"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <color key="textColor" systemColor="secondaryLabelColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="flt-tit-0SS" firstAttribute="top" secondItem="flt-bar-0SS" secondAttribute="top" constant="12" id="flt-tit-top"/>
+                        <constraint firstItem="flt-tit-0SS" firstAttribute="leading" secondItem="flt-bar-0SS" secondAttribute="leading" constant="16" id="flt-tit-lead"/>
+                        <constraint firstAttribute="trailing" secondItem="flt-tit-0SS" secondAttribute="trailing" constant="16" id="flt-tit-trail"/>
+                        <constraint firstItem="seg-flt-0SS" firstAttribute="top" secondItem="flt-tit-0SS" secondAttribute="bottom" constant="8" id="seg-top"/>
+                        <constraint firstItem="seg-flt-0SS" firstAttribute="leading" secondItem="flt-bar-0SS" secondAttribute="leading" constant="16" id="seg-lead"/>
+                        <constraint firstAttribute="trailing" secondItem="seg-flt-0SS" secondAttribute="trailing" constant="16" id="seg-trail"/>
+                        <constraint firstItem="sum-lbl-0SS" firstAttribute="top" secondItem="seg-flt-0SS" secondAttribute="bottom" constant="8" id="sum-top"/>
+                        <constraint firstItem="sum-lbl-0SS" firstAttribute="leading" secondItem="flt-bar-0SS" secondAttribute="leading" constant="16" id="sum-lead"/>
+                        <constraint firstAttribute="trailing" secondItem="sum-lbl-0SS" secondAttribute="trailing" constant="16" id="sum-trail"/>
+                        <constraint firstAttribute="bottom" secondItem="sum-lbl-0SS" secondAttribute="bottom" constant="12" id="sum-bot"/>
+                    </constraints>
+                </view>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="col-vw-0SS">
+                    <rect key="frame" x="12" y="179" width="369" height="571"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="4" minimumInteritemSpacing="4" id="col-lay-0SS">
+                        <size key="itemSize" width="120" height="138"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="4" minY="8" maxX="4" maxY="24"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="col-ds-001"/>
+                        <outlet property="delegate" destination="-1" id="col-dl-001"/>
+                    </connections>
+                </collectionView>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Không có screenshot cũ nào trong khoảng thời gian này." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="emp-lbl-0SS">
+                    <rect key="frame" x="32" y="406" width="329" height="40"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" systemColor="secondaryLabelColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="btm-bar-0SS">
+                    <rect key="frame" x="0.0" y="762" width="393" height="56"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sep-lin-0SS">
+                            <rect key="frame" x="0.0" y="0.0" width="393" height="0.5"/>
+                            <color key="backgroundColor" systemColor="separatorColor"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="0.5" id="sep-h-001"/>
+                            </constraints>
+                        </view>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="btn-stk-0SS">
+                            <rect key="frame" x="16" y="8" width="361" height="40"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sel-btn-0SS">
+                                    <rect key="frame" x="0.0" y="0.0" width="174.5" height="40"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="gray" title="Chọn tất cả"/>
+                                    <connections>
+                                        <action selector="selectAllButtonTapped:" destination="-1" eventType="touchUpInside" id="act-sel-001"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="del-btn-0SS">
+                                    <rect key="frame" x="186.5" y="0.0" width="174.5" height="40"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="filled" title="Xóa">
+                                        <color key="baseBackgroundColor" systemColor="systemRedColor"/>
+                                    </buttonConfiguration>
+                                    <connections>
+                                        <action selector="deleteButtonTapped:" destination="-1" eventType="touchUpInside" id="act-del-001"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="sep-lin-0SS" firstAttribute="top" secondItem="btm-bar-0SS" secondAttribute="top" id="sep-top-001"/>
+                        <constraint firstItem="sep-lin-0SS" firstAttribute="leading" secondItem="btm-bar-0SS" secondAttribute="leading" id="sep-lead-001"/>
+                        <constraint firstAttribute="trailing" secondItem="sep-lin-0SS" secondAttribute="trailing" id="sep-trail-001"/>
+                        <constraint firstItem="btn-stk-0SS" firstAttribute="top" secondItem="sep-lin-0SS" secondAttribute="bottom" constant="8" id="stk-top-001"/>
+                        <constraint firstItem="btn-stk-0SS" firstAttribute="leading" secondItem="btm-bar-0SS" secondAttribute="leading" constant="16" id="stk-lead-001"/>
+                        <constraint firstAttribute="trailing" secondItem="btn-stk-0SS" secondAttribute="trailing" constant="16" id="stk-trail-001"/>
+                        <constraint firstAttribute="bottom" secondItem="btn-stk-0SS" secondAttribute="bottom" constant="8" id="stk-bot-001"/>
+                        <constraint firstAttribute="height" constant="56" id="bar-h-001"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="mFU-vj-gs8"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="flt-bar-0SS" firstAttribute="top" secondItem="mFU-vj-gs8" secondAttribute="top" id="flt-top"/>
+                <constraint firstItem="flt-bar-0SS" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="flt-lead"/>
+                <constraint firstAttribute="trailing" secondItem="flt-bar-0SS" secondAttribute="trailing" id="flt-trail"/>
+                <constraint firstItem="col-vw-0SS" firstAttribute="top" secondItem="flt-bar-0SS" secondAttribute="bottom" constant="12" id="col-top"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="trailing" secondItem="col-vw-0SS" secondAttribute="trailing" constant="12" id="col-trail"/>
+                <constraint firstItem="col-vw-0SS" firstAttribute="leading" secondItem="mFU-vj-gs8" secondAttribute="leading" constant="12" id="col-lead"/>
+                <constraint firstItem="btm-bar-0SS" firstAttribute="top" secondItem="col-vw-0SS" secondAttribute="bottom" id="col-bot"/>
+                <constraint firstItem="btm-bar-0SS" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="bar-lead"/>
+                <constraint firstAttribute="trailing" secondItem="btm-bar-0SS" secondAttribute="trailing" id="bar-trail"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="bottom" secondItem="btm-bar-0SS" secondAttribute="bottom" id="bar-safe-bot"/>
+                <constraint firstItem="emp-lbl-0SS" firstAttribute="centerY" secondItem="col-vw-0SS" secondAttribute="centerY" id="emp-cy"/>
+                <constraint firstItem="emp-lbl-0SS" firstAttribute="leading" secondItem="mFU-vj-gs8" secondAttribute="leading" constant="32" id="emp-lead"/>
+                <constraint firstItem="mFU-vj-gs8" firstAttribute="trailing" secondItem="emp-lbl-0SS" secondAttribute="trailing" constant="32" id="emp-trail"/>
+            </constraints>
+            <point key="canvasLocation" x="88" y="79"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="secondaryLabelColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="secondarySystemBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="separatorColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

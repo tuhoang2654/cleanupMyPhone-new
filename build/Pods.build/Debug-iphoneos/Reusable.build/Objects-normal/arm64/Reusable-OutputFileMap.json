@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable-primary.dia",
+    "emit-module-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable-primary-emit-module.dia",
+    "pch" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable-primary.swiftdeps"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/Storyboard/StoryboardBased.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardBased~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/Storyboard/StoryboardSceneBased.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/StoryboardSceneBased~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/View/NibLoadable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibLoadable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/View/NibOwnerLoadable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/NibOwnerLoadable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/View/Reusable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/Reusable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/View/UICollectionView+Reusable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UICollectionView+Reusable~partial.swiftmodule"
+  },
+  "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/Pods/Reusable/Sources/View/UITableView+Reusable.swift" : {
+    "const-values" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.swiftconstvalues",
+    "dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.d",
+    "diagnostics" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.o",
+    "llvm-bc" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.bc",
+    "object" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.o",
+    "swift-dependencies" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable.swiftdeps",
+    "swiftmodule" : "/Users/hoanganhtu/Desktop/cleanupMyPhone-new/build/Pods.build/Debug-iphoneos/Reusable.build/Objects-normal/arm64/UITableView+Reusable~partial.swiftmodule"
+  }
+}

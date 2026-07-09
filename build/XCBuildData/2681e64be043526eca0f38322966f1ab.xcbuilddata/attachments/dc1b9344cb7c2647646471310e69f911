@@ -1,0 +1,4 @@
+
+module PanModal.__Swift {
+  exclude header "PanModal-Swift.h"
+}

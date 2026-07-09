@@ -1,0 +1,4 @@
+
+module RxRelay.__Swift {
+  exclude header "RxRelay-Swift.h"
+}

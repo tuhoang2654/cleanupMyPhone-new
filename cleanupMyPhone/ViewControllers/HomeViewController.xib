@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HomeViewController" customModule="cleanupMyPhone" customModuleProvider="target">
+            <connections>
+                <outlet property="cleanAlbumButton" destination="PkD-uN-l5V" id="5Ih-3z-Bsb"/>
+                <outlet property="cleanLargeSizeVideo" destination="12D-EG-xR8" id="Zkf-Du-hbM"/>
+                <outlet property="cleanOldScreenshotButton" destination="JK5-Tq-WwS" id="mXC-jh-2QN"/>
+                <outlet property="smartCleanButton" destination="MAq-DO-HDN" id="jvb-nh-Z4p"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MAq-DO-HDN" userLabel="Dọn dẹp thông minh">
+                    <rect key="frame" x="36" y="166" width="321" height="39"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Dọn dẹp thông minh"/>
+                    <connections>
+                        <action selector="smartCleanBtnClicked:" destination="-1" eventType="touchUpInside" id="4lb-2R-nO2"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PkD-uN-l5V" userLabel="Quét thư viện">
+                    <rect key="frame" x="36" y="229" width="321" height="39"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Quét thư viện"/>
+                    <connections>
+                        <action selector="cleanAlbumBtnClicked:" destination="-1" eventType="touchUpInside" id="lkF-mg-xov"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JK5-Tq-WwS">
+                    <rect key="frame" x="36" y="292" width="321" height="39"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Screenshot cũ"/>
+                    <connections>
+                        <action selector="cleanOldScreenshotBtnClicked:" destination="-1" eventType="touchUpInside" id="Kwe-LO-U8E"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="12D-EG-xR8">
+                    <rect key="frame" x="36" y="355" width="321" height="39"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Dọn Video Dung Lượng Lớn"/>
+                    <connections>
+                        <action selector="cleanLargeSizeVideoBtnClicked:" destination="-1" eventType="touchUpInside" id="LGV-act-001"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="MAq-DO-HDN" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="36" id="9Ww-wy-tYJ"/>
+                <constraint firstItem="MAq-DO-HDN" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="48" id="H7r-L2-lxP"/>
+                <constraint firstItem="12D-EG-xR8" firstAttribute="top" secondItem="JK5-Tq-WwS" secondAttribute="bottom" constant="24" id="JOg-Fq-FuW"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="MAq-DO-HDN" secondAttribute="trailing" constant="36" id="Ju2-xm-lZM"/>
+                <constraint firstItem="JK5-Tq-WwS" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="36" id="LTR-aB-Tz4"/>
+                <constraint firstItem="PkD-uN-l5V" firstAttribute="top" secondItem="MAq-DO-HDN" secondAttribute="bottom" constant="24" id="Npk-BK-M8q"/>
+                <constraint firstItem="JK5-Tq-WwS" firstAttribute="top" secondItem="PkD-uN-l5V" secondAttribute="bottom" constant="24" id="SsW-Ou-eC3"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="JK5-Tq-WwS" secondAttribute="trailing" constant="36" id="bDn-R3-TVj"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="12D-EG-xR8" secondAttribute="trailing" constant="36" id="g7V-Vo-niU"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="PkD-uN-l5V" secondAttribute="trailing" constant="36" id="iOm-EC-zOc"/>
+                <constraint firstItem="PkD-uN-l5V" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="36" id="mtS-kx-hgz"/>
+                <constraint firstItem="12D-EG-xR8" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="36" id="v0g-sD-MY3"/>
+            </constraints>
+            <point key="canvasLocation" x="-28.244274809160306" y="-11.267605633802818"/>
+        </view>
+    </objects>
+</document>

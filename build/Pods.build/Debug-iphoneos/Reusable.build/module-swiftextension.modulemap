@@ -1,0 +1,5 @@
+
+module Reusable.Swift {
+  header "Reusable-Swift.h"
+  requires objc
+}

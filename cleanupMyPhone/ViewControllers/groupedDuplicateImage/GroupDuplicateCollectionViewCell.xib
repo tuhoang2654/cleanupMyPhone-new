@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="GroupDuplicateCollectionViewCell" customModule="cleanupMyPhone" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="120" height="138"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="120" height="138"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vt1-cd-0p4">
+                        <rect key="frame" x="0.0" y="0.0" width="120" height="118"/>
+                    </imageView>
+                    <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ovr-lay-0ACC">
+                        <rect key="frame" x="0.0" y="0.0" width="120" height="118"/>
+                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="0.34999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="chk-mrk-0ACC">
+                        <rect key="frame" x="90" y="6" width="24" height="24"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="01/07/2026 - 10:30:00" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="YES" minimumScaleFactor="0.80000000000000004" translatesAutoresizingMaskIntoConstraints="NO" id="dat-lbl-0ACC">
+                        <rect key="frame" x="2" y="120" width="116" height="16"/>
+                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="11"/>
+                        <color key="textColor" systemColor="secondaryLabelColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="vt1-cd-0p4" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="img-top-001"/>
+                <constraint firstItem="vt1-cd-0p4" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="img-lead-001"/>
+                <constraint firstAttribute="trailing" secondItem="vt1-cd-0p4" secondAttribute="trailing" id="img-trail-001"/>
+                <constraint firstItem="dat-lbl-0ACC" firstAttribute="top" secondItem="vt1-cd-0p4" secondAttribute="bottom" constant="2" id="date-top-001"/>
+                <constraint firstItem="dat-lbl-0ACC" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="2" id="date-lead-001"/>
+                <constraint firstAttribute="trailing" secondItem="dat-lbl-0ACC" secondAttribute="trailing" constant="2" id="date-trail-001"/>
+                <constraint firstAttribute="bottom" secondItem="dat-lbl-0ACC" secondAttribute="bottom" constant="2" id="date-bot-001"/>
+                <constraint firstItem="dat-lbl-0ACC" firstAttribute="height" constant="16" id="date-h-001"/>
+                <constraint firstItem="ovr-lay-0ACC" firstAttribute="top" secondItem="vt1-cd-0p4" secondAttribute="top" id="ovr-top-001"/>
+                <constraint firstItem="ovr-lay-0ACC" firstAttribute="leading" secondItem="vt1-cd-0p4" secondAttribute="leading" id="ovr-lead-001"/>
+                <constraint firstItem="ovr-lay-0ACC" firstAttribute="trailing" secondItem="vt1-cd-0p4" secondAttribute="trailing" id="ovr-trail-001"/>
+                <constraint firstItem="ovr-lay-0ACC" firstAttribute="bottom" secondItem="vt1-cd-0p4" secondAttribute="bottom" id="ovr-bot-001"/>
+                <constraint firstItem="chk-mrk-0ACC" firstAttribute="top" secondItem="vt1-cd-0p4" secondAttribute="top" constant="6" id="chk-top-001"/>
+                <constraint firstItem="vt1-cd-0p4" firstAttribute="trailing" secondItem="chk-mrk-0ACC" secondAttribute="trailing" constant="6" id="chk-trail-001"/>
+                <constraint firstItem="chk-mrk-0ACC" firstAttribute="width" constant="24" id="chk-w-001"/>
+                <constraint firstItem="chk-mrk-0ACC" firstAttribute="height" constant="24" id="chk-h-001"/>
+            </constraints>
+            <size key="customSize" width="120" height="138"/>
+            <connections>
+                <outlet property="checkmarkView" destination="chk-mrk-0ACC" id="out-chk-001"/>
+                <outlet property="dateLabel" destination="dat-lbl-0ACC" id="out-date-001"/>
+                <outlet property="resultImageView" destination="vt1-cd-0p4" id="x9e-Zu-fkf"/>
+                <outlet property="selectionOverlay" destination="ovr-lay-0ACC" id="out-ovr-001"/>
+            </connections>
+            <point key="canvasLocation" x="89" y="122"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="secondaryLabelColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

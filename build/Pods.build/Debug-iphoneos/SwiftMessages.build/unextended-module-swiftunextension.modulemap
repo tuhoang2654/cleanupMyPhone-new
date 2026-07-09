@@ -1,0 +1,4 @@
+
+module SwiftMessages.__Swift {
+  exclude header "SwiftMessages-Swift.h"
+}

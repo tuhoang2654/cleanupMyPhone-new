@@ -1,0 +1,5 @@
+
+module RxSwift.Swift {
+  header "RxSwift-Swift.h"
+  requires objc
+}
